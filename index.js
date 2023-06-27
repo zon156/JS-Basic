@@ -15,8 +15,8 @@ btn1.addEventListener("click",function(){
 
 function memo(){
     let memoList  ="";
-for(let i=0;i<array.length;i++){
-    memoList += "<li>"+array[i]+"</li>";
-}
-ul1.innerHTML =memoList
+    for(let i=0;i<array.length;i++){
+        memoList += "<li>"+array[i]+"</li>";
+    }
+    ul1.innerHTML =memoList
 }
