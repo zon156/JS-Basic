@@ -1,0 +1,23 @@
+body{
+    padding: 50px;
+}
+input{
+    width: 45%;
+    height: 20px;
+    border: dotted;
+    border-color: blueviolet;
+}
+button{
+    height: 24px;
+    width: auto;
+    border: none;
+    border-radius: 3px;
+    color: purple;
+    background-color: pink;
+}
+#todo-ul{
+    color: red;
+}
+li{
+    color: chartreuse;
+}
